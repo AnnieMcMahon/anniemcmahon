@@ -8,24 +8,23 @@ In 2022, I made a pivotal decision to return to tech. I earned my full-stack dev
 When I'm not coding, I enjoy hiking and exploring the beautiful trails of Western North Carolina. I’m currently working on a hiking app designed to help people connect and organize group hikes more easily. Collaboration, continuous learning, and innovation drive my passion for software development.
 
 ## Skills
-- **Languages**: JavaScript, TypeScript, Python
+- **Languages**: JavaScript, TypeScript
 - **Front-End**: React, HTML, CSS, Tailwind
-- **Back-End**: Node.js
-- **Databases**: Supabase, PostgreSQL
-- **Others**: RESTful APIs, Jira
+- **Back-End**: Node.js, Supabase, PostgreSQL
+- **Others**: RESTful APIs, Jira, Excel VBA
 
 ## Projects
 Here are a few projects I've worked on recently:
 
-### Project 1: WNC Hiking Hub
+### WNC Hiking Hub
 An app for hikers to connect with each other and organize their hikes.
 [https://wnc-hiking-hub-v3-db.vercel.app/](https://wnc-hiking-hub-v3-db.vercel.app/)
 
-### Project 2: Portfolio
+### Portfolio
 A collection of projects I've developed as I learned to code.
-[https://portfolio-v3-flame.vercel.app/](https://portfolio-v3-flame.vercel.app/)
+[https://portfolio-v3-flame.vercel.app/](https://annie-mcmahon-portfolio.vercel.app/)
 
-### Project 3: Classics Revisited
+### Classics Revisited
 A website for a historical renovation company (coming soon!)
 
 ## Contact Me
